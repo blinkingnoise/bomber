@@ -4,11 +4,11 @@
   "description": "Bomberman like game",
   "main": "server.js",
   "scripts": {
-    "server": "webpack && node server/app.js",
+    "build": "webpack",
     "start": "node server/app.js"
   },
   "author": "Dmytro Vasin",
-  "repository": "github.com/DmytroVasin/bomber",
+  "repository": "github.com/blinkingnoise/bomber/",
   "license": "MIT",
   "keywords": [
     "phaser",
